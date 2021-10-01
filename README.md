@@ -21,19 +21,9 @@ If you find this code or work useful, please cite our [paper](to be updated):
 
 ## Preparation
 
-### Environment
-* python = 3.7
-* pytorch = 1.6.0
-* cuda = 10.2
-* open3d = 0.10.0.0
-* MinkowskiEngine = 0.4.3
-* sacred
-* tqdm
-* tensorboard
-
 ### Installation
 
-1. This code was implemented with pytorch 1.6.0 and CUDA 10.2. Please install [PyTorch](https://pytorch.org/). 
+1. This code was implemented with python 3.7, pytorch 1.6.0 and CUDA 10.2. Please install [PyTorch](https://pytorch.org/). 
 ```
 pip install torch==1.6.0 torchvision==0.7.0
 ```
