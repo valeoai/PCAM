@@ -1,0 +1,10 @@
+DATASET: '3dmatch'
+NUM_POINTS: 4096
+SPARSE_ATTENTION: False
+# This threshold was optimised on the validation of 3dmatch
+THRESHOLD: .6
+DGR_OPTIM: True
+# Safeguard registration (as in DGR) when the confidence scores are below a threshold (WSUM_THRESHOLD)
+# This threshold was optimised to apply safeguard on the same number of scans as in DGR
+SAFEGUARD: True
+WSUM_THRESHOLD: 930

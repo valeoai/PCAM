@@ -1,0 +1,6 @@
+DATASET: '3dmatch'
+NUM_POINTS: 4096
+SPARSE_ATTENTION: True
+# This threshold was optimised on the validation of 3dmatch
+THRESHOLD: .5
+DGR_OPTIM: True
