@@ -82,7 +82,7 @@ For this dataset, we use the same dataloader as in [PRNet](https://github.com/Wa
 
 
 ### Pretrained models
-Download PCAM pretrained models [here] ***ADD LINK*** and unzip the file in the folder `/path/to/pcam/trained_models/`, which should have the structure described [here](./pcam/trained_models/models.md).
+Download PCAM pretrained models [here](https://github.com/valeoai/PCAM/releases/download/v0.1/trained_models.zip) and unzip the file in the folder `/path/to/pcam/trained_models/`, which should have the structure described [here](./pcam/trained_models/models.md).
 
 
 
