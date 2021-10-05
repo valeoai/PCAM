@@ -7,7 +7,7 @@
 [*Renaud Marlet*<sup>1,3</sup>](http://imagine.enpc.fr/~marletr/)  
 <sup>1</sup>*valeo.ai, France and <sup>2</sup>Inria, France and <sup>3</sup>ENPC, France*
 
-If you find this code or work useful, please cite our [paper](to be updated):
+If you find this code or work useful, please cite our [paper](http://arxiv.org/abs/2110.01269):
 ```
 @inproceedings{cao21pcam,
   title={{PCAM}: {P}roduct of {C}ross-{A}ttention {M}atrices for {R}igid {R}egistration of {P}oint {C}louds},
