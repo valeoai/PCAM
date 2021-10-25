@@ -1,6 +1,6 @@
 # PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds
 
-[**PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds**]()  
+[**PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds**](http://arxiv.org/abs/2110.01269)  
 [*Anh-Quan Cao*<sup>1,2</sup>](https://anhquancao.github.io),
 [*Gilles Puy*<sup>1</sup>](https://sites.google.com/site/puygilles/home),
 [*Alexandre Boulch*<sup>1</sup>](http://boulch.eu),
