@@ -133,18 +133,3 @@ class ThreeDMatchDataset(PCAMDataset):
         return xyz0_th, xyz1_th, unique_xyz0_th, unique_xyz1_th, T_gt, np.linalg.inv(T_gt), one_one_attention.A, file_name, xyz0_mean, xyz1_mean
 
 
-def test(root, phase):
-    dataset = ThreeDMatchDataset(root, phase)
-    cnt = 0
-    for i in tqdm(range(len(dataset))):
-        dataset[i]
-        cnt += 1
-    print(phase, len(dataset), cnt)
-
-if __name__ == '__main__':
-    root = "/gpfsscratch/rech/kvd/uyl37fq/PCAM/3dmatch/threedmatch"
-    test_root = "/gpfsscratch/rech/kvd/uyl37fq/PCAM/3dmatch/test"
-    test(test_root, "test") # test 1623 1623
-    test(root, "train") # train 7317 7317
-    test(root, "val") # val 643 643
-
