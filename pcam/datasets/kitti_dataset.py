@@ -202,18 +202,3 @@ class KittiDataset(PCAMDataset):
             return self.kitti_cache[data_path]
         else:
             return self.kitti_cache[data_path][indices]
-
-def test(root, phase, icp_path):
-    dataset = PCAMKittiDataset(root, phase, icp_path)
-    cnt = 0
-    for i in tqdm(range(len(dataset))):
-        dataset[i]
-        cnt += 1
-    print(phase, len(dataset), cnt)
-
-if __name__ == '__main__':
-    root = "/gpfsscratch/rech/kvd/uyl37fq/PCAM/kitti/dataset"
-    icp_path = "/gpfsscratch/rech/kvd/uyl37fq/PCAM/kitti/icp"
-    test(root, "val", icp_path) # val 643 643
-    test(root, "test", icp_path) # test 1623 1623
-    test(root, "train", icp_path) # train 7317 7317
