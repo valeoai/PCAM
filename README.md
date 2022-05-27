@@ -1,5 +1,10 @@
 # PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pcam-product-of-cross-attention-matrices-for/point-cloud-registration-on-3dmatch-at-least-1)](https://paperswithcode.com/sota/point-cloud-registration-on-3dmatch-at-least-1?p=pcam-product-of-cross-attention-matrices-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pcam-product-of-cross-attention-matrices-for/point-cloud-registration-on-kitti-fcgf)](https://paperswithcode.com/sota/point-cloud-registration-on-kitti-fcgf?p=pcam-product-of-cross-attention-matrices-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pcam-product-of-cross-attention-matrices-for/point-cloud-registration-on-3dlomatch-10-30)](https://paperswithcode.com/sota/point-cloud-registration-on-3dlomatch-10-30?p=pcam-product-of-cross-attention-matrices-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pcam-product-of-cross-attention-matrices-for/point-cloud-registration-on-3dmatch-at-least-2)](https://paperswithcode.com/sota/point-cloud-registration-on-3dmatch-at-least-2?p=pcam-product-of-cross-attention-matrices-for)
+
 [**PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds**](http://arxiv.org/abs/2110.01269)  
 [*Anh-Quan Cao*<sup>1,2</sup>](https://anhquancao.github.io),
 [*Gilles Puy*<sup>1</sup>](https://sites.google.com/site/puygilles/home),
